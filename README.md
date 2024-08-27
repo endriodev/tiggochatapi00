@@ -1,4 +1,4 @@
-# Baileys - Typescript/Javascript WhatsApp Web API
+# Tiggochat - Baileys - Typescript/Javascript WhatsApp Web API
 
 ### Important Note
 
